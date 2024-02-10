@@ -1,0 +1,2 @@
+require("kcnvim")
+print("hello")
