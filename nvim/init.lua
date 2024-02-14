@@ -1,2 +1,1 @@
 require("kcnvim")
-print("hello")
